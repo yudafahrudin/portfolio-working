@@ -1,8 +1,7 @@
-# Portfolio of my working
+# Portfolio Working
 
 ## Hubble
 Hubble is driving innovation in the Construction and Engineering Industry by building the Next Generation Smart Worksite, which is powered by our innovative cloud-based mobile and web platforms.
-
 ## Shot Coffe
 Make platfrom for ordering and shipping coffe in singapore
 
