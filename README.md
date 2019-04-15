@@ -1,9 +1,20 @@
 # Portfolio Working
 
-## Hubble
+## Hubble (REACT NATIVE)
 Hubble is driving innovation in the Construction and Engineering Industry by building the Next Generation Smart Worksite, which is powered by our innovative cloud-based mobile and web platforms.
-## Shot Coffe
-Make platfrom for ordering and shipping coffe in singapore
+<br><br>
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-02-01_16-16-26.jpg?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-09-25_17-39-46.jpg?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-05-22_22-30-18.jpg?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-03-13_10-56-18.jpg?raw=true" width="200">
 
-## HaloBro
+## Shot Coffe (REACT NATIVE)
+Make platfrom for ordering and shipping coffe in singapore
+<br><br>
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/shootcoffe/home.png?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/shootcoffe/account.png?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/shootcoffe/cart.png?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/shootcoffe/order.png" width="200">
+
+## HaloBro (REACT JS)
 HaloBro is first platform to grab all chats application into one windows. Easy to handle customer with different social chatting. Analyzing perform and behaviour customer.
