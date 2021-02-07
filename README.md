@@ -4,13 +4,13 @@ Urutan dibawah dari yang terbaru
 ## VONTIS ( ANGULAR )
 ERP and ACCOUNTING APLICATION
 <br><br>
-<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-02-01_16-16-26.jpg?raw=true" 
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-02-01_16-16-26.jpg?raw=true" width="200">
 
 
 ## SMKN 1 ABSENSI ( REACT NATIVE + LARAVEL )
 This is my research project for college graduation. This aplication can record student absence history.Parents will be able to check the record status of their child while at school in real time.
 <br><br>
-<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-02-01_16-16-26.jpg?raw=true" 
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-02-01_16-16-26.jpg?raw=true" width="200">
 
 ## Shot Coffe (REACT NATIVE)
 Make platfrom for ordering and shipping coffe in singapore
