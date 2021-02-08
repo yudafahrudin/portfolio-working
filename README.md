@@ -1,5 +1,5 @@
 # Portfolio Working
-Urutan dibawah dari yang terbaru
+Urutan dari yang terbaru
 
 ## VONTIS ( ANGULAR )
 ERP and ACCOUNTING APLICATION
