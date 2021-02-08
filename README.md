@@ -13,7 +13,11 @@ ERP and ACCOUNTING APLICATION
 ## SMKN 1 ABSENSI ( REACT NATIVE + LARAVEL )
 This is my research project for college graduation. This aplication can record student absence history.Parents will be able to check the record status of their child while at school in real time.
 <br><br>
-<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-02-01_16-16-26.jpg?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/smkn1-absensi/Screen%20Shot%202021-01-14%20at%2016.53.56.png?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/smkn1-absensi/Screen%20Shot%202021-01-25%20at%2010.56.00.png?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/smkn1-absensi/Screen%20Shot%202021-01-25%20at%2010.57.56.png?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/smkn1-absensi/Screen%20Shot%202021-01-26%20at%2022.40.26.png?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/smkn1-absensi/Screen%20Shot%202021-02-07%20at%2023.08.40.png?raw=true" width="100%">
 
 ## Shot Coffe (REACT NATIVE)
 Make platfrom for ordering and shipping coffe in singapore
