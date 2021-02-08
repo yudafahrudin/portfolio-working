@@ -4,7 +4,10 @@ Urutan dibawah dari yang terbaru
 ## VONTIS ( ANGULAR )
 ERP and ACCOUNTING APLICATION
 <br><br>
-<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-02-01_16-16-26.jpg?raw=true" width="200">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.51.02.png?raw=true" width="100%">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.52.11.png?raw=true" width="100%">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.53.02.png?raw=true" width="100%">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.59.45.png?raw=true" width="100%">
 
 
 ## SMKN 1 ABSENSI ( REACT NATIVE + LARAVEL )
