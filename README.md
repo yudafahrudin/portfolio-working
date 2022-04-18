@@ -5,10 +5,6 @@ Urutan dari yang terbaru
 ERP and ACCOUNTING APLICATION
 <br><br>
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.51.02.png?raw=true" width="100%">
-<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.52.11.png?raw=true" width="100%">
-<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.53.02.png?raw=true" width="100%">
-<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.59.45.png?raw=true" width="100%">
-
 
 ## SMKN 1 ABSENSI ( REACT NATIVE + LARAVEL )
 This is my research project for college graduation. This aplication can record student absence history.Parents will be able to check the record status of their child while at school in real time.
