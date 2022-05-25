@@ -4,12 +4,12 @@ Urutan dari yang terbaru
 ## SIRCLO Store using ReactJS + GraphQL
 E comerce and Enabler for quick web store
 <br><br>
-<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.51.02.png?raw=true" width="100%">
+<img src="https://raw.githubusercontent.com/yudafahrudin/portfolio-working/master/sirclo/sirclo-store.png" width="80%">
 
 ## VONTIS using Angular 10
 ERP and ACCOUNTING APLICATION
 <br><br>
-<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.51.02.png?raw=true" width="100%">
+<img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.51.02.png?raw=true" width="80%">
 
 ## SMKN 1 ABSENSI using React Native + Laravel
 This is my research project for college graduation. This aplication can record student absence history.Parents will be able to check the record status of their child while at school in real time.
