@@ -1,6 +1,7 @@
 # Portfolio (Urutan dari yang terbaru)
 
-## 1) Pokeworld mini project using ReactJS + GraphQL
+## 1) Pokeworld mini project using ReactJS + GraphQL 
+<a href="https://www.google.com/" target="_blank">Link Web</a> <a href="https://www.google.com/" target="_blank">Github</a>
 Simple web for catch and collecting pokemon
 <br><br>
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/pokeworld/Screen%20Shot%202022-05-25%20at%2017.28.16.png" width="60%">
