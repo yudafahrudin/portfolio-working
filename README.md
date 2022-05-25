@@ -11,16 +11,17 @@ Simple web for catch and collecting pokemon
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/pokeworld/Screen%20Shot%202022-05-25%20at%2017.29.03.png" width="30%">
 
 ## 2) SIRCLO Store using ReactJS + GraphQL
-E comerce and Enabler for quick web store
+<a href="https://store.sirclo.com" target="_blank"> [ Link Web ] </a> E comerce and Enabler for quick web store
 <br><br>
 <img src="https://raw.githubusercontent.com/yudafahrudin/portfolio-working/master/sirclo/sirclo-store.png" width="80%">
 
 ## 3) VONTIS using Angular 10
-ERP and ACCOUNTING APLICATION
+<a href="https://www.vontis.id" target="_blank"> [ Link Web ] </a> ERP and ACCOUNTING APLICATION
 <br><br>
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.51.02.png?raw=true" width="80%">
 
 ## 4) SMKN 1 ABSENSI using React Native + Laravel
+<a href="https://github.com/yudafahrudin/ta-absensi" target="_blank">[ Github Laravel ]</a> </a> <a href="https://github.com/yudafahrudin/smkn1-absensi-mobile" target="_blank">[ Github Mobile ]</a>
 This is my research project for college graduation. This aplication can record student absence history.Parents will be able to check the record status of their child while at school in real time.
 <br><br>
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/smkn1-absensi/Screen%20Shot%202021-01-14%20at%2016.53.56.png?raw=true" width="200">
@@ -47,7 +48,7 @@ HaloBro is first platform to grab all chats application into one windows. Easy t
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/halobro/chat.png?raw=true" width="100%">
 
 ## 7) Hubble Mobile using React Native
-Hubble is driving innovation in the Construction and Engineering Industry by building the Next Generation Smart Worksite, which is powered by our innovative cloud-based mobile and web platforms.
+<a href="https://www.hubble.build" target="_blank">[ Link Web ]</a> Hubble is driving innovation in the Construction and Engineering Industry by building the Next Generation Smart Worksite, which is powered by our innovative cloud-based mobile and web platforms.
 <br><br>
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-02-01_16-16-26.jpg?raw=true" width="200">
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/hubble/photo_2018-09-25_17-39-46.jpg?raw=true" width="200">
