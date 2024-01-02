@@ -3,8 +3,9 @@
 ## 1) Pokeworld mini project using ReactJS + GraphQL 
 Simple web for catch and collecting pokemon
 <a href="https://pokeworld-puce.vercel.app" target="_blank"> Link </a> 
+<br>
 <a href="https://github.com/yudafahrudin/pokeworld" target="_blank">Github</a>
-<br><br>
+<br>
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/pokeworld/Screen%20Shot%202022-05-25%20at%2017.28.16.png" width="60%">
 <br>
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/pokeworld/Screen%20Shot%202022-05-25%20at%2017.28.35.png" width="30%">
