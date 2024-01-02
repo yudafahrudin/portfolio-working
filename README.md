@@ -1,5 +1,3 @@
-# Portfolio (Urutan dari yang terbaru)
-
 ## 1) Pokeworld mini project using ReactJS + GraphQL 
 Simple web for catch and collecting pokemon
 <br><br>
