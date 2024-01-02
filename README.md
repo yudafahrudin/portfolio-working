@@ -1,7 +1,7 @@
 # Portfolio (Urutan dari yang terbaru)
 
 ## 1) Pokeworld mini project using ReactJS + GraphQL 
-<a href="https://pokeworld-puce.vercel.app" target="_blank"> [ Link Web ] </a> <a href="https://github.com/yudafahrudin/pokeworld" target="_blank">[ Github ]</a>
+<a href="https://pokeworld-puce.vercel.app" target="_blank"> Link </a> <a href="https://github.com/yudafahrudin/pokeworld" target="_blank">[ Github ]</a>
 Simple web for catch and collecting pokemon
 <br><br>
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/pokeworld/Screen%20Shot%202022-05-25%20at%2017.28.16.png" width="60%">
@@ -11,12 +11,12 @@ Simple web for catch and collecting pokemon
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/pokeworld/Screen%20Shot%202022-05-25%20at%2017.29.03.png" width="30%">
 
 ## 2) SIRCLO Store using ReactJS + GraphQL
-<a href="https://store.sirclo.com" target="_blank"> [ Link Web ] </a> E comerce and Enabler for quick web store
+<a href="https://store.sirclo.com" target="_blank"> Link </a> E comerce and Enabler for quick web store
 <br><br>
 <img src="https://raw.githubusercontent.com/yudafahrudin/portfolio-working/master/sirclo/sirclo-store.png" width="80%">
 
 ## 3) VONTIS using Angular 10
-<a href="https://www.vontis.id" target="_blank"> [ Link Web ] </a> ERP and ACCOUNTING APLICATION
+<a href="https://www.vontis.id" target="_blank"> Link </a> ERP and ACCOUNTING APLICATION
 <br><br>
 <img src="https://github.com/yudafahrudin/portfolio-working/blob/master/vontis/Screen%20Shot%202021-02-08%20at%2006.51.02.png?raw=true" width="80%">
 
